@@ -1,6 +1,6 @@
 # Meeplitis
 
-*Meeplitis is a third place where creatives belong, build, and — more club than program.*
+*Meeplitis is a third place where creatives belong, build, and flourish — more club than program.*
 
 The program is being developed as a ministry of [Bible Baptist Church](https://www.bbcpa.org) in Shiremanstown, PA.
 
