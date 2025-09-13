@@ -6,6 +6,8 @@ The program is being developed as a ministry of [Bible Baptist Church](https://w
 
 * [Meeplitis Charter](./charter.md)
 * [Code of Conduct](./code-of-conduct.md)
+* [Skills](./skills.md)
+* [Belt Progression](./belt-progression.md)
 
 ## Status
 The program is being vetted by leadership. It has not yet been approved.

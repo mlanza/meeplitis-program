@@ -50,7 +50,7 @@ I'll mention the possibilities although the DOM will be the focus.
 
 ## Programming
 
-### JavaScript 🌱🧱
+### JavaScript 🧱
 
 * Variables, functions, control flow
 * Arrays/objects
@@ -64,7 +64,8 @@ I'll mention the possibilities although the DOM will be the focus.
 
 * Object-oriented programming
 * Functional programming
-* Functional core, imperative shell (includes UI)
+* Functional core - start with simulation
+* Imperative shell - the UI comes later
 
 ## Tools & Workflow
 
