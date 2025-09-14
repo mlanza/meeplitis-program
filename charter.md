@@ -2,7 +2,7 @@
 
 ## Why Meeplitis Exists
 
-Creatives need a third place—a community beyond home and school where they belong, create, and are invested in. Jocks have their teams; musicians have band and orchestra. Geeks and makers deserve a place too.
+Creatives need a [third place](https://en.wikipedia.org/wiki/Third_place)—a community beyond home and school where they belong, create, and are invested in. Jocks have their teams; musicians have band and orchestra. Geeks and makers deserve a place too.
 
 Meeplitis is that place: a church-hosted, after-school program of fun, belonging, and skill-building in the world of technology and games. Here, young people learn to harness artificial intelligence, coding, and problem-solving—not just as skills, but as tools for creativity, community, and flourishing.
 
@@ -11,9 +11,9 @@ The name Meeplitis comes from the world of board games, and that’s intentional
 ## Value Propositions by Audience
 
 > ⚠️ **IMPORTANT**
-> Class time gives makers the tools to solve problems and push through challenges on their own. It provides coaching and direction, but lasting gains come through personal practice and persistence—like learning piano, it takes rhythm and routine outside the lesson.
+> Class time gives makers the tools to solve problems and push through challenges on their own. It provides coaching and direction, but [lasting gains come through personal practice and persistence](./growth.md)—like learning piano, it takes rhythm and routine outside the lesson.
 
-### For Students (7th Grade through 20s)
+### For Students (Teenage through 20s)
 
 * A safe, fun, and welcoming “third place” to belong as a geek or creative.
 * Hands-on learning in real tech skills (AI, command line, Git, web development, problem-solving).
@@ -59,7 +59,7 @@ The name Meeplitis comes from the world of board games, and that’s intentional
   * Open to the general public as a board game community event.
   * Serves as an on-ramp and outreach opportunity for those not yet club members.
 
-* **Membership:** Open to 7th graders through twenty-somethings. Requires basic computer literacy, laptop access, and ability to use AI tools like ChatGPT.
+* **Membership:** Open to teenagers through twenty-somethings. Requires basic computer literacy, laptop access, and ability to use AI tools like ChatGPT.
 
 * **Cycle:** Weekly during the school year; summers off. Ongoing membership encouraged, even after “graduation.”
 
