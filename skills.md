@@ -6,15 +6,14 @@ I am taking an incremental learning approach, seeing each skill as a hole needin
 
 I am targeting a solo-developer mindset, not collaboration.  I am helping them become generalists.
 
-🧱 = Core skills (MVPs)
-🌱 = Early-stage skills
-🌳 = Later-stage skills
+🌱 = Fundamentals
+🌳 = Advanced skills
 
-## Meta-Skills 🌱🧱
+## Meta-Skills 🌱
 
-This is a career of never-ending learning and problem solving.  The most fundamental skill in developing is entering into and conquering the unknown.
+Tech is continuous learning and problem solving.  You will often not know the answer.  The essential attitude is to anticipate the unanticipated and having a readiness to work through it.
 
-### Learning to learn 🌱🧱
+### Learning to learn 🌱
 
 * Curiosity and persistence
 * Breaking problems down
@@ -31,26 +30,31 @@ I'll mention the possibilities although the DOM will be the focus.
 * SVG for scalable 2D work
 * 3D as a category mention (context-setting only)
 
-### HTML 🌱🧱
+### HTML 🌱
 
 * Basic structure, tags, forms, semantic elements
 
-### CSS 🌱🧱
+### CSS 🌱
 
 * Styling, layout (flexbox/grid), responsive mindset
 * Animations
 * Transitions
 
-## Artificial Intelligence 🌱🧱
+## Artificial Intelligence 🌱
 
-### Chatbot 🌱🧱
+### Chatbot 🌱
 
 * Prompting for debugging, idea-generation, explanations
 * The general use of AI
 
+### Agentic Coding 🌳
+
+* Prompts AI to generate specs
+* Prompts AI to write code
+
 ## Programming
 
-### JavaScript 🧱
+### JavaScript 🌱
 
 * Variables, functions, control flow
 * Arrays/objects
@@ -77,11 +81,11 @@ I'll mention the possibilities although the DOM will be the focus.
 
 * Note-taking, personal knowledge capture
 
-### Command line 🌱🧱
+### Command line 🌱
 
 * Navigation, scripts, package management (npm/deno)
 
-### Git 🌱🧱
+### Git 🌱
 
 * Init, clone, add/commit, push/pull, branching basics
 
@@ -89,7 +93,7 @@ I'll mention the possibilities although the DOM will be the focus.
 
 * Inspecting, console, network tab
 
-### Deployment
+### Deployment 🌳
 
 * Cloudflare Pages
 * Cloudflare Workers
@@ -107,12 +111,12 @@ I'll mention the possibilities although the DOM will be the focus.
 
 ## APIs & Networking 🌳
 
-* REST fundamentals 🌳
-* `fetch` in JS 🌳
+* REST fundamentals
+* `fetch` in JS
 * JSON data handling
-* Client/server model 🌳
+* Client/server model
 
-## Persistence
+## Persistence 🌳
 
 ### Data storage
 
