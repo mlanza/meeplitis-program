@@ -6,8 +6,10 @@ It is being developed as a ministry of [Bible Baptist Church](https://www.bbcpa.
 
 * [Meeplitis Charter](./charter.md)
 * [Code of Conduct](./code-of-conduct.md)
+* [Tools](./tools.md)
 * [Skills](./skills.md)
-* [Belt Progression](./belt-progression.md)
+* [How Growth Works Here](./growth.md)
+* [Earning Belts](./earning-belts.md)
 
 ## Status
 It is being vetted by leadership; not yet approved.
