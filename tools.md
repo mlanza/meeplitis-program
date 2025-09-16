@@ -7,7 +7,7 @@ To participate in the club, members need access to:
 * Email account
 * [GitHub](https://github.com) account
 * [ChatGPT](https://chatgpt.com) account
-* [Board Game Arena](https://en.boardgamearena.com) account
+* [Board Game Arena](https://boardgamearena.com) account
 
 The accounts required for participation are free. Though premium accounts can be helpful for the most industrious students, they're not required. They're strictly optional.
 
