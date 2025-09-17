@@ -16,7 +16,7 @@ Belts mark milestones along the way, celebrating progress without rushing. The a
 
 ### Practice Beyond the Club
 
-Like learning piano, most of your progress won’t come in the lesson itself, but in the time you set aside each week to practice. Meetups give you direction and coaching, but it’s your steady rhythm at home that builds real skill.
+Like learning piano, most of your progress won’t come in the lesson itself, but [in the time you set aside each week](./growth.md) to practice. Meetups give you direction and coaching, but it’s your steady rhythm at home that builds real skill.
 
 ## Why AI Matters
 
