@@ -12,6 +12,8 @@ Meeplitis is a club built to fill that gap. It’s an after-school program where
 
 Kids today are raised on a steady diet of short clips, memes, and endless scrolling. It’s fun, but it doesn’t build much. Meeplitis takes that same screen time and turns it into something nourishing. Instead of only consuming, students learn to create — moving from passive entertainment to active building.
 
+**That’s why access to a personal computer matters**. Phones and tablets invite passive swiping, but a laptop or desktop invites engagement. Sitting at a keyboard signals, *I’m here to produce, to learn, to get things done.* With the right mindset, that screen becomes a tool for focus and creation — more like an instrument than a toy.
+
 ## Concentration and Growth
 
 At Meeplitis, projects are intentionally too big to finish in one sitting. Students have to break them down, chip away steadily, and keep going week by week. That kind of focus — sustained concentration paired with fun — is rare, but it’s what actually leads to growth.
