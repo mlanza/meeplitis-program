@@ -33,7 +33,7 @@ Internet access is essential for learning from others, reading, watching tutoria
 
 ## Email Account
 
-Needed to sign up for the secondary services like GitHub, ChatGPT and Board Game Arena.
+Needed to sign up for the secondary services like GitHub, ChatGPT and Yucata.
 
 ## GitHub Account
 
