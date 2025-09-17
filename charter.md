@@ -46,18 +46,18 @@ The name Meeplitis comes from the world of board games, and that’s intentional
 
 ## Structure
 
+The ministry has primarily two components—club and community game days—and an [associated schedule](./schedule.md) for both.
+
 * **Club:**
 
-  * Meets the first three Wednesdays of each month, 4:30–6:30pm.
   * Primary focus: skill development, projects, belts progression.
   * Members are expected to arrive with their own laptops, ready to work.
   * One Wednesday each month may run as a *hybrid* session—mixing learning with games to build community.
 
-* **Open Game Days:**
+* **Community Game Days:**
 
-  * Meets the 1st Sunday of the month, 12:00–5:00pm.
   * Open to the general public as a board game community event.
-  * Serves as an on-ramp and outreach opportunity for those not yet club members.
+  * Serves as an on-ramp and outreach opportunity for non-members, e.g. the public at large.
 
 * **Membership:** Open to teenagers through twenty-somethings. Requires basic computer literacy, laptop access, and ability to use AI tools like ChatGPT.
 
