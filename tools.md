@@ -13,7 +13,7 @@ They'll need to create an email account if they don't already have one. That wil
 
 The instructor will lead students to create these as the time comes.
 
-Although [Family Link](https://families.google/familylink/) provides a limited number of safety measures, it may be wise to keep a copy of your child’s account credentials. Knowing you can check in is itself a good deterrent against irresponsible use. Ultimately, you know your child best.
+Although [Family Link](https://families.google/familylink/) provides a limited number of safety measures, **it may be wise to keep a copy of your child’s account credentials**. Knowing you can check in is itself a good deterrent against irresponsible use. Ultimately, you know your child best.
 
 ## Personal Computer
 
