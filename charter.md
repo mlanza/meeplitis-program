@@ -13,7 +13,7 @@ The name Meeplitis comes from the world of board games, and that’s intentional
 > ⚠️ **IMPORTANT**
 > Class time gives makers the tools to solve problems and push through challenges on their own. It provides coaching and direction, but [lasting gains come through personal practice and persistence](./growth.md)—like learning piano, it takes rhythm and routine outside the lesson.
 
-### For Students (Teenage through 20s)
+### For Students & Young Adults
 
 * A safe, fun, and welcoming “third place” to belong as a geek or creative.
 * Hands-on learning in real tech skills (AI, command line, Git, web development, problem-solving).
@@ -41,6 +41,7 @@ The name Meeplitis comes from the world of board games, and that’s intentional
 
 * **Name:** Meeplitis
 * **Core Expression:** A third place for makers, coders, and creatives.
+* **Common Bond:** Learning and using tech to make apps and games
 * **Hosted by:** Bible Baptist Church, under the supervision of Outreach Pastor Brian Eichelberger.
 * **Faith Integration**: Meeplitis follows the spirit of [Why at the Well](https://whyatthewell.org)—opening doors to the community with members’ flourishing at the center. The focus is on tech, problem-solving, and belonging. Because I am shaped by Christ, I will naturally speak in Bible-influenced ways. That influence is present, but always secondary to the promise of the program.
 
