@@ -8,6 +8,7 @@ It is being developed as a ministry of [Bible Baptist Church](https://www.bbcpa.
 * [Parents](./parents.md)
 * [Students](./students.md)
 * [Volunteers](./volunteers.md)
+* [Who Belongs](./who.md)
 * [Code of Conduct](./code-of-conduct.md)
 * [Tools](./tools.md)
 * [Skills](./skills.md)
