@@ -48,4 +48,4 @@ For most, showing up and being present is the win. But if you’re the kind of c
 
 This isn’t about giving more time, but about trading ideas and working thoughtfully together. If that resonates, let me know and we can start a dialogue. And if, after the conversation, you realize it’s not for you, that’s fine — no strings attached.
 
-This invitation isn’t for everyone. It’s for the right person who feels the tug to help evolve what Meeplitis can be.  It’s not me approaching you.  It’s you approaching me.
+This invitation isn’t for everyone. It’s for the right person who feels the tug to help evolve what Meeplitis can be.
