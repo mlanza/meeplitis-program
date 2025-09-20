@@ -47,7 +47,7 @@ The name Meeplitis comes from the world of board games, and that’s intentional
 
 ## Structure
 
-The ministry has primarily two components—club and community game days—and an [associated schedule](./schedule.md) for both.
+The ministry [rhythm](./rhythm.md) is club and community game days:
 
 * **Club:**
 

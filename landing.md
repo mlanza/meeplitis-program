@@ -8,5 +8,12 @@ Come hang out, play some games, and learn how tech can be fun and creative — a
 
 We meet on a steady rhythm:
 
-* **Club Nights** — three Thursdays a month, 4:30–6:30pm, September through May
+* **Club** — three Thursdays a month, 4:30–6:30pm, September through May
 * **Community Game Day** — first Sunday of the month, 12:00–5:00pm, year-round
+
+If this sounds interesting, we invite you to take the next step...
+
+<a href="./who.md"
+   style="background: #2d89ef; color: white;padding: 10px 16px; border-radius: 6px;text-decoration:none;">
+   Is It For Me?
+</a>

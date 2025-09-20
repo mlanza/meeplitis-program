@@ -6,15 +6,15 @@ Technology isn’t just for one age group. Some discover it in middle school, so
 
 | Who              | Ages  | Description |
 | ---------------- | ----- | ---- |
-| **Students**     | 12–22 | Middle school, high school, and traditional college-age learners. |
-| **Young Adults** | 23–29 | Still exploring or pivoting, ready to sharpen skills in a safe, structured community. |
-| **Coaches**      | 18+   | Trusted adults who step into a vetted support or leadership role. |
+| [**Students**](./students.md) | 12–22 | Middle school, high school, and traditional college-age learners. |
+| [**Young Adults**](./young-adults.md) | 23–29 | Still exploring or pivoting, ready to sharpen skills in a safe, structured community. |
+| [**Coaches**](./volunteers.md) | 18+   | Trusted adults who step into a vetted support or leadership role. |
 
 ## Background Checks
 
 This wide net allows Meeplitis to serve both teenagers finding their footing and young adults rethinking their direction — without losing sight of safety or belonging.
 
-To this end, background checks are mandatory for all coaches and members 25 or older.
+**To this end, background checks are mandatory for all coaches and members 25 or older.**
 
 This structure ensures that anyone beyond “student age” is either moving toward a checked, trusted role or already serving as a coach.
 
@@ -30,8 +30,11 @@ Meeplitis is more than a training ground; it’s also a hobbyist club, a communi
 
 The club exists as a **third place of belonging** — a home for the joy of making, where professional-grade work and play coexist. Here, skills that the marketplace prizes are learned in an environment that treats creation as fun, not just labor.
 
-## Charter Alignment
+## Ready to Begin? Join the Boot Camp
 
-This model reflects Meeplitis’ charter: inclusive, safe, and committed to fostering growth through creativity. By giving clear lanes for students, young adults, and coaches, we create **reasonable entry points for anyone drawn to tech and making** — while protecting the integrity of the space.
+If reading this has you thinking *“this sounds like my place”* — the best way to jump in is with our **Boot Camp** starting **Thursday, January 8, 2026**.
 
-Meeplitis is here to help. It’s here to belong. And it’s here to remind every creative that there’s room at the table, whether you’re just starting or still finding your way.
+<a href="./boot-camp.md"
+   style="background: #2d89ef; color: white;padding: 10px 16px; border-radius: 6px;text-decoration:none;">
+   Tell me about Boot Camp
+</a>

@@ -1,26 +1,5 @@
 # Schedule
 
-**Meeplitis runs on a steady rhythm of club sessions and community game days.**
+All meetups, when scheduled, will appear here.  It will also mention anything special you need to remember to bring, outside the regular stuff.
 
-## Weekly Rhythm
-
-* **Club Nights (3x/month, during the school year)**
-
-  * 1st, 2nd, & 3rd Thursdays, 4:30–6:30pm
-  * Focus: coding, projects, and belt progression
-  * Occasional game-based sessions that mix learning with play
-  * Runs September–May (aligned with the school calendar)
-
-* **Community Game Day (1x/month, year-round)**
-
-  * First Sunday of the month, 12:00–5:00pm
-  * Open to the public, built around [modern board games](https://whiletruelearnplay.com/introduction-board-gaming/)
-
-## Extras Along the Way
-
-Beyond the regular schedule, expect occasional **extracurricular activities** — special workshops, guest sessions, or offsite events — offered a few times throughout the year. These are optional but give members more chances to connect, learn, and play.
-
-## Seasons
-
-* **Club Sessions:** School year only (September–May)
-* **Game Days:** Continue year-round, even through summer
+**Urgent Messaging.** If we need to cancel or shift a meeting on short notice, a text alert will be sent to the number you listed as scheduling contact on the **welcome form**. Make sure that number is current and belongs to someone who can receive texts.

@@ -18,7 +18,7 @@ If you’ve seen *The Chosen*, you may remember Matthew: gifted, different, alwa
 
 ## When We Meet
 
-See the [schedule](./schedule.md). There are two kinds of shifts:
+See the [schedule](rhythm.md). There are two kinds of shifts:
 
 * **Club nights** — 2 hours, three Thursdays a month (school year).
 * **Community game days** — 5–6 hours, one Sunday each month (year-round).
