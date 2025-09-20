@@ -30,6 +30,13 @@ Each belt you earn proves a new layer of ability. By the time you’ve reached t
 
 ## The Invitation
 
+If reading this has you thinking *“this sounds like my place”* — the best way to jump in is with our **Boot Camp** starting **Thursday, January 8, 2026**.
+
+<a href="./boot-camp.md"
+   style="background: #2d89ef; color: white;padding: 10px 16px; border-radius: 6px;text-decoration:none;">
+   Tell me about Boot Camp
+</a>
+
 Bring a laptop if you can. Show up curious. Try making something digital instead of only consuming it.
 
 Meeplitis is your chance to discover whether creating websites, apps, and games can be as fun as playing them.

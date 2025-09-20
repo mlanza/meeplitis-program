@@ -5,10 +5,8 @@
 It is being developed as a ministry of [Bible Baptist Church](https://www.bbcpa.org) in Shiremanstown, PA.
 
 * [Meeplitis Charter](./charter.md)
-* [Parents](./parents.md)
-* [Students](./students.md)
+* [Landing Page](./landing.md)
 * [Volunteers](./volunteers.md)
-* [Who Belongs](./who.md)
 * [Code of Conduct](./code-of-conduct.md)
 * [Tools](./tools.md)
 * [Skills](./skills.md)
