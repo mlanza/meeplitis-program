@@ -4,7 +4,7 @@
 
 ## Weekly Rhythm
 
-* **Club Nights (3x/month, during the school year)**
+* **Club (3x/month, during the school year)**
 
   * 1st, 2nd, & 3rd Thursdays, 4:30–6:30pm
   * Focus: coding, projects, and belt progression
@@ -22,5 +22,5 @@ Beyond the regular schedule, expect occasional **extracurricular activities** �
 
 ## Seasons
 
-* **Club Sessions:** School year only (September–May)
-* **Game Days:** Continue year-round, even through summer
+* **Club:** School year only (September–May)
+* **Community Game Days:** Continue year-round, even through summer
