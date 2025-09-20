@@ -7,7 +7,7 @@ Technology isn’t just for one age group. Some discover it in middle school, so
 | Who              | Ages  | Description |
 | ---------------- | ----- | ---- |
 | [**Students**](./students.md) | 12–22 | Middle school, high school, and traditional college-age learners. |
-| **Young Adults** | 23–29 | Still exploring or pivoting, ready to sharpen skills in a safe, structured community. |
+| [**Young Adults**](./young-adults.md) | 23–29 | Still exploring or pivoting, ready to sharpen skills in a safe, structured community. |
 | [**Coaches**](./volunteers.md) | 18+   | Trusted adults who step into a vetted support or leadership role. |
 
 ## Background Checks
