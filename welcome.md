@@ -9,7 +9,7 @@ I’m glad you’re here. Meeplitis is a “third place” for makers and creati
 
 Club is hosted at Bible Baptist Church, **201 W. Vine St., Shiremanstown, PA**.  The Santos Center building, where meetups happen, is located at the back of our large parking lot.
 
-**This is your welcome letter.  Print it and sign in when appearing for your first meetup.**
+**Print and sign this welcome letter and bring it with your laptop when appearing at your first meetup.**
 
 ## Policies & Expectations
 
