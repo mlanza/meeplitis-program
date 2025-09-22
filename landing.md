@@ -2,7 +2,7 @@
 
 Meeplitis is a club for making games and apps — a third place where creatives belong, build, and flourish.  Although play is part of it, the deeper reward comes from learning the craft of turning ideas into working things.
 
-Everyone fits here: beginners, tinkerers, and seasoned builders alike. It’s an at-your-own-pace journey, but mostly about the shared community and fun. That’s why board games are a centerpiece and even inspired the name — they remind us that play belongs at the heart of making. Alongside coding and games, you’ll also get a taste of artificial intelligence, which is fast becoming an essential skill for the next generation.
+Everyone fits here: beginners, tinkerers, and seasoned builders alike. It’s an at-your-own-pace journey, but mostly about the shared community and fun. That’s why board games are a centerpiece and even [inspired the name](./name.md) — they remind us that play belongs at the heart of making. Alongside coding and games, you’ll also get a taste of artificial intelligence, which is fast becoming an essential skill for the next generation.
 
 Come hang out, play some games, and learn how tech can be fun and creative — and maybe even a path to work that feels just as rewarding.
 
