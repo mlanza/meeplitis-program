@@ -6,7 +6,7 @@ It is being developed as a ministry of [Bible Baptist Church](https://www.bbcpa.
 
 * [Meeplitis Charter](./charter.md)
 * [Landing Page](./landing.md)
-* [Welcome Letter](./welcome.md)
+* [Welcome Letter](welcome.md)
 * [Volunteers](./volunteers.md)
 
 ## Status
